@@ -6,8 +6,9 @@
 ## Installing:
 ```bash
 cd /opt/
-git clone 
-run as installer.sh
+git clone https://github.com/socDAEU/puntamara.git
+cd puntamara/
+bash installer.sh
 ```
 ## To access for a single docker to developement:
 ```bash
