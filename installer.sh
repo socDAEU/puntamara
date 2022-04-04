@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 # PLEAE DO NOT EDIT!!!
+
+apt install vim git docker.io docker-compose -y
 cd puntamara/
 	bash puntamara.sh
 	cd ..
