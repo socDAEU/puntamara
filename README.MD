@@ -3,7 +3,7 @@
 3. swetch to user 
 4. bash INSTALL.sh -c -M
 
-## To access the single docker to developement:
+## To access for a single docker to developement:
 ```bash
 docker exec -it your_docker_image bash
 ```
