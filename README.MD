@@ -1,5 +1,5 @@
 ## WARNING:
-### Install a Linux machine with username `puntamara`!!!
+### Install a Linux machine with username home directory `puntamara`!!!
 - - - Check for your certificate if you use virtual machine, you must installed it.
 ## Installing:
 ```bash
