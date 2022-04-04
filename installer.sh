@@ -15,11 +15,5 @@ cd thehive/
 docker-compose up -d
 	sleep 3;
 	echo "Please wait ...";
-	cd ..
-	sleep 3;
-	echo "The installation is not finished..."
-			sudo -u puntamara bash INSTALL.sh -c -M 
-				sleep 3;
-			echo "All listening ports"
-			netstat -tulpn
+		netstat -tulpn
 		exit 0;
