@@ -1,6 +1,8 @@
 ## WARNING:
-### Install a Linux machine with username home directory `puntamara`!!!
+### Install a Linux machine with username plus home directory `puntamara`!!!
+
 - - - Check for your certificate if you use virtual machine, you must installed it.
+
 ## Installing:
 ```bash
 run as installer.sh
