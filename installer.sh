@@ -1,5 +1,4 @@
 #!/usr/bin/bash
-# by nu11secur1ty
 # PLEAE DO NOT EDIT!!!
 cd /opt/SOC_ENV/puntamara/
 	bash puntamara.sh
