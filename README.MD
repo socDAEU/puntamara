@@ -1,7 +1,8 @@
 ## WARNING:
 ### Install a Linux machine with username plus home directory `puntamara`!!!
 
-- - - Check for your certificate if you use virtual machine, you must installed it.
+## IMPORTANT!
+- - - Check for your `SSL` certificate of your virtual machine if you use a virtual machine, and you do not have a certificate, you must install it before running this repository. You will need this for the `docker` and other software repository and pkg key authorization!
 
 ## Installing:
 ```bash
