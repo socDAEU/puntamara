@@ -12,4 +12,7 @@ docker-compose up -d
 	sleep 3;
 	echo "The installation is not finished..."
 			sudo -u puntamara bash INSTALL.sh -c -M 
+				sleep 3;
+			echo "All listening ports"
+			netstat -tulpn
 		exit 0;
