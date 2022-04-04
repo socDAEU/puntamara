@@ -5,6 +5,8 @@
 
 ## Installing:
 ```bash
+cd /opt/
+git clone 
 run as installer.sh
 ```
 ## To access for a single docker to developement:
