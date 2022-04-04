@@ -3,7 +3,7 @@
 
 apt update -y
 apt dist-upgrade -y
-apt install vim git docker.io docker-compose -y
+apt install net-tools vim git docker.io docker-compose -y
 
 cd puntamara/
 	bash puntamara.sh
