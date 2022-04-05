@@ -1,3 +1,7 @@
+## Puntamara
+![](https://github.com/socDAEU/puntamara/blob/master/docs/wall-puntamara.jpg)
+
+
 ## WARNING:
 ### Install a Linux machine with username plus home directory `puntamara`!!!
 
