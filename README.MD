@@ -6,6 +6,12 @@ The `puntamara` from author `John Doe` is a basic monitoring system and auditing
 ## WARNING:
 ### Install a Linux machine with username plus home directory `puntamara`!!!
 
+## Need to install
+- Docker
+- Git
+- net-tools
+- vim
+
 ## IMPORTANT!
 - - - Check for your `SSL` certificate of your virtual machine if you use a virtual machine, and you do not have a certificate, you must install it before running this repository. You will need this for the `docker` and other software repository and pkg key authorization!
 
