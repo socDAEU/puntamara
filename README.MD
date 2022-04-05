@@ -1,5 +1,5 @@
 ## Puntamara
-![](https://github.com/socDAEU/puntamara/blob/master/docs/wall-puntamara.jpg)
+![](https://github.com/socDAEU/puntamara/blob/master/docs/Framework%20for%20excellence.jpg)
 
 The `puntamara` is a basic monitoring system and auditing event management framework software, which uses already public instruments. Also, this is an automation of popular instruments for this job. This is simple and strong software!
 
